@@ -1,0 +1,8 @@
+[NetworkTables Storage 3.0]
+double "/Preferences/Camera 1 Brightness"=50
+double "/Preferences/Camera 1 Frame Rate"=16
+double "/Preferences/Camera 1 Hight"=480
+double "/Preferences/Camera 1 Width"=640
+double "/Preferences/Lift Speed"=1
+double "/Preferences/Ramping in Seconds"=0
+double "/Preferences/Timeout in Seconds"=1
